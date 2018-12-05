@@ -1,0 +1,7 @@
+# dependencies
+node_modules
+
+# development
+.idea
+.vscode
+yarn.lock
